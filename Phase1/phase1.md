@@ -10,6 +10,7 @@ You will need a tool to burn the ISO on your flash drive, I used [Rufus software
 2. Open Rufus software tool as administrator and select your ISO that your downloaded before, then press start and wait the process to compelete, it may take some time depending on your hardware.
 
 ![image](https://user-images.githubusercontent.com/64384499/134745909-bf6851c2-cba0-42d3-ba2d-fbd76f99167a.png) 
+
 3. Now your bootable flash drive is ready to be install, restart your PC or laptop and enter the BIOS menu.
 4. Make sure to turn off the _legacy support_, it may differ from one to another but make sure if you have the option of _legacy support_ turn it off, or make the boot mode on _UEFI_.
 
