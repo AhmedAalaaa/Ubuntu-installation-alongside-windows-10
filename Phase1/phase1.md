@@ -20,3 +20,8 @@ Solution one             |  Solution two
 
 <img src="https://user-images.githubusercontent.com/64384499/134746461-65d8d20f-fda4-425b-906e-718d64fef3fb.png" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/64384499/134746636-3a18e9b9-16c9-46db-8b94-b5c165e1210b.png" width="100" height="100">
+
+
+Solution one             |  Solution two  
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/64384499/134746461-65d8d20f-fda4-425b-906e-718d64fef3fb.png" width="300" height="300"> |  <img src="https://user-images.githubusercontent.com/64384499/134746636-3a18e9b9-16c9-46db-8b94-b5c165e1210b.png" width="300" height="300">
