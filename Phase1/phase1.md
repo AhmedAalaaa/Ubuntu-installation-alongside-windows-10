@@ -20,6 +20,8 @@ Solution one             |  Solution two
 
 5. After that save and exit, then Boot your PC or laptop from your flash drive.
 6. After Ubuntu installer opened choose install Ubuntu, then you will find some option choose the last option called "somthing else".
-7. Now a window like this will open, be carful any mistake may cost to data lose.
+7. Now a window like this will open, be carful any mistake may cause to data lose.
 
 ![1](https://user-images.githubusercontent.com/64384499/134747542-4f2d59a5-c123-4c9a-8699-da37fa1a87ad.png)
+
+8. Now you need to choose the partion which will you will install Ubuntu.
