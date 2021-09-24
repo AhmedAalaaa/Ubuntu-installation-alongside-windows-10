@@ -14,7 +14,8 @@ You will need a tool to burn the ISO on your flash drive, I used [Rufus software
 3. Now your bootable flash drive is ready to be install, restart your PC or laptop and enter the BIOS menu.
 4. Make sure to turn off the _legacy support_, it may differ from one to another but make sure if you have the option of _legacy support_ turn it off, or make the boot mode on _UEFI_.
 
-![image](https://user-images.githubusercontent.com/64384499/134746425-d760314a-9e79-4c57-b5e0-6d9a7bd20d06.png)
-![image](https://user-images.githubusercontent.com/64384499/134746461-65d8d20f-fda4-425b-906e-718d64fef3fb.png)
+Solution one             |  Solution two  
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/64384499/134746461-65d8d20f-fda4-425b-906e-718d64fef3fb.png)  |  ![image](https://user-images.githubusercontent.com/64384499/134746425-d760314a-9e79-4c57-b5e0-6d9a7bd20d06.png)
 
 
