@@ -8,6 +8,7 @@ You will need a tool to burn the ISO on your flash drive, I used [Rufus software
 ### Installation steps
 1. Now plug-in your flash frive into your PC or laptop.
 2. Open Rufus software tool as administrator and select your ISO that your downloaded before, then press start and wait the process to compelete, it may take some time depending on your hardware.
+
 ![image](https://user-images.githubusercontent.com/64384499/134745909-bf6851c2-cba0-42d3-ba2d-fbd76f99167a.png) 
 
 
