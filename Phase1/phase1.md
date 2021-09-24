@@ -17,3 +17,9 @@ You will need a tool to burn the ISO on your flash drive, I used [Rufus software
 Solution one             |  Solution two  
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/64384499/134746461-65d8d20f-fda4-425b-906e-718d64fef3fb.png" width="1000" height="300"> |  <img src="https://user-images.githubusercontent.com/64384499/134746636-3a18e9b9-16c9-46db-8b94-b5c165e1210b.png" width="900" height="300">
+
+5. After that save and exit, then Boot your PC or laptop from your flash drive.
+6. After Ubuntu installer opened choose install Ubuntu, then you will find some option choose the last option called "somthing else".
+7. Now a window like this will open, be carful any mistake may cost to data lose.
+
+![1](https://user-images.githubusercontent.com/64384499/134747542-4f2d59a5-c123-4c9a-8699-da37fa1a87ad.png)
