@@ -56,7 +56,7 @@ Solution one             |  Solution two
 ### Some issuses you may face
 There is an issue you may face after the installtion, the window may start by defualt, to solve this problem, restart your laptop or PC and plug-in ypur flash drive and boot form it to test Ubuntu open the terminal and execute these commands one by one.
 
-```json
+```
 sudo apt-add-repository ppa:yannubuntu/boot-repair
 
 sudo apt-get update
@@ -72,7 +72,7 @@ Then click _recommended repair_ and follow the steps.
 After that restart now and everything should be ok, then open Ubuntu and execute these commands and now you successfully installtion has been finished.
 
 
-```json
+```
 sudo os-prober
 
 sudo update-grub
