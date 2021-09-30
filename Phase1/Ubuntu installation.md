@@ -69,5 +69,11 @@ Then click _recommended repair_ and follow the steps.
 
 ![img_590b901e40a4f](https://user-images.githubusercontent.com/64384499/135491205-119f3ed2-b311-408b-9c91-97a6abf02c6f.png)
 
+After that restart now and everything should be ok, then open Ubuntu and execute these commands and now you successfully installtion has been finished.
 
 
+```
+sudo os-prober
+
+sudo update-grub
+```
