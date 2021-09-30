@@ -29,6 +29,31 @@ Solution one             |  Solution two
 
 8. Now you need to choose the partion which will you will install Ubuntu, we will use the free space that shrinked before in windows.
 9. Right click on the free sapce then _add_, first we need to make the (/boot) the boot file system for Ubuntu, 1GB is enough for that.
+
 ![2 (1)](https://user-images.githubusercontent.com/64384499/135488592-549241fd-8609-4408-9f2d-7a9be5caaa12.png)
+
+10. We need to make swap area douple the amount of your phyiscal RAM, I have 8GB RAM, so I will make it 16GB swap area.
+
+![3](https://user-images.githubusercontent.com/64384499/135488886-03835b83-a511-4f23-9bec-a089989f2175.png)
+
+11. You can make (/home) partion or not, its depends on you but I prefer 5GB for that.
+12. Now make the root partion for the remaining space.
+
+![4](https://user-images.githubusercontent.com/64384499/135489295-869cf189-e75b-489d-993a-4c1843eaa6b1.png)
+
+13. Now do not forget to choose the _Device for boot loader installation_ for the (/boot) partion you made then press _Install now_.
+
+![5](https://user-images.githubusercontent.com/64384499/135489517-818beb58-8f57-461b-886e-3295e26c1921.png)
+
+14. A pop-up menu will apper confirming on the formation.
+
+![6](https://user-images.githubusercontent.com/64384499/135489816-957ce378-8746-4a6b-97a0-c5b7f2bf9481.png)
+
+15. Compelete the installtion steps till reach the installtion window below and that may take a while depending on your hardware.
+
+![9](https://user-images.githubusercontent.com/64384499/135490064-724607e0-4f77-47f3-a96e-614159eaae0c.png)
+
+
+
 
 
