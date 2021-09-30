@@ -28,4 +28,7 @@ Solution one             |  Solution two
 ![1](https://user-images.githubusercontent.com/64384499/134747542-4f2d59a5-c123-4c9a-8699-da37fa1a87ad.png)
 
 8. Now you need to choose the partion which will you will install Ubuntu, we will use the free space that shrinked before in windows.
-9. Right click 
+9. Right click on the free sapce then _add_, first we need to make the (/boot) the boot file system for Ubuntu, 1GB is enough for that.
+![2 (1)](https://user-images.githubusercontent.com/64384499/135488592-549241fd-8609-4408-9f2d-7a9be5caaa12.png)
+
+
