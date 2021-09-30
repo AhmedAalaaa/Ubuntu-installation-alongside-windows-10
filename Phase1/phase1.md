@@ -27,4 +27,5 @@ Solution one             |  Solution two
 
 ![1](https://user-images.githubusercontent.com/64384499/134747542-4f2d59a5-c123-4c9a-8699-da37fa1a87ad.png)
 
-8. Now you need to choose the partion which will you will install Ubuntu.
+8. Now you need to choose the partion which will you will install Ubuntu, we will use the free space that shrinked before in windows.
+9. Right click 
