@@ -7,9 +7,7 @@ Go to [Ubuntu official website](https://ubuntu.com/download/desktop) and dwonloa
 You will need a tool to burn the ISO on your flash drive, I used [Rufus software tool](https://rufus.ie/en/) to burn it.
 ### Seperate 100GB for the OS
 Before going to the installation steps, you need to free up 100GB on your drive, right click on _This PC_ and then press device manager -> storage -> Disk Management, and shrink 100GB form any drive you want.
-x-special/nautilus-clipboard
-copy
-file:///home/ahmed/Desktop/11.PNG
+![11](https://user-images.githubusercontent.com/64384499/135486407-967c47ba-a213-47b7-8789-9158066e889d.PNG)
 ### Installation steps
 1. Now plug-in your flash frive into your PC or laptop.
 2. Open Rufus software tool as administrator and select your ISO that your downloaded before, then press start and wait the process to compelete, it may take some time depending on your hardware.
