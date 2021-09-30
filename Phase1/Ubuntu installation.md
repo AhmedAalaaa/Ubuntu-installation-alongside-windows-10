@@ -53,7 +53,18 @@ Solution one             |  Solution two
 
 ![9](https://user-images.githubusercontent.com/64384499/135490064-724607e0-4f77-47f3-a96e-614159eaae0c.png)
 
+### Some issuses you may face
+There is an issue you may face after the installtion, the window may start by defualt, to solve this problem, restart your laptop or PC and plug-in ypur flash drive and boot form it to test Ubuntu open the terminal and execute these commands.
 
+```
+sudo apt-add-repository ppa:yannubuntu/boot-repair
+
+sudo apt-get update
+
+sudo apt-get install -y boot-repair
+
+boot-repair
+```
 
 
 
