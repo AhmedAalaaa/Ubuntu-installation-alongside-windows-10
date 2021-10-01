@@ -1,6 +1,7 @@
 ### TO-DO
 1. System Specs Search
 2. Dynamic voltage variation (put coupling capacitance between Vdd and GND)
+3. Skywater
 
 ### GDS File
 Some of the polygons describe the layout in drawing matter, has some reports including the precision.
