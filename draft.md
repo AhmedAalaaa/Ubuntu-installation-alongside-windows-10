@@ -4,6 +4,10 @@
 3. Skywater
 4. OpenLane
 
+### Linux file types
+![image](https://user-images.githubusercontent.com/64384499/135725109-a775dea9-2bf8-42d0-94eb-8fe849d3df39.png)
+
+
 ### GDS File
 Some of the polygons describe the layout in drawing matter, has some reports including the precision.
 
@@ -16,3 +20,4 @@ Some of the polygons describe the layout in drawing matter, has some reports inc
 6. Model Cards for Device with different corners support
 7. Symbols for Devices
 8. Layer Mapping to technology
+
