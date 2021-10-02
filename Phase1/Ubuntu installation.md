@@ -54,7 +54,7 @@ Solution one             |  Solution two
 ![9](https://user-images.githubusercontent.com/64384499/135490064-724607e0-4f77-47f3-a96e-614159eaae0c.png)
 
 ### Some issuses you may face
-There is an issue you may face after the installtion, the window may start by defualt, to solve this problem, restart your laptop or PC and plug-in ypur flash drive and boot form it to test Ubuntu open the terminal and execute these commands one by one.
+There is an issue you may face after the installtion, the windows OS may start by defualt, to solve this problem, restart your laptop or PC and plug-in ypur flash drive and boot form it to test Ubuntu open the terminal and execute these commands one by one.
 
 ```
 sudo apt-add-repository ppa:yannubuntu/boot-repair
@@ -69,7 +69,7 @@ Then click _recommended repair_ and follow the steps.
 
 ![img_590b901e40a4f](https://user-images.githubusercontent.com/64384499/135491205-119f3ed2-b311-408b-9c91-97a6abf02c6f.png)
 
-After that restart now and everything should be ok, then open Ubuntu and execute these commands and now you your installation has been finished successfully.
+After that restart, now and everything should be ok, then open Ubuntu and execute these commands and now you your installation has been finished successfully.
 
 
 ```
