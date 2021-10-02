@@ -1,12 +1,12 @@
 ### finished
-- [x] (Markdown Training)[https://www.markdowntutorial.com/]
-- [x] (Coursera Linux Basics)[https://www.coursera.org/projects/command-line-linux]
-- [] (Git Training GDDS)[https://www.coursera.org/learn/git-distributed-development?specialization=oss-development-linux-git#about]
-- [x] (Git Training VCG)[https://www.coursera.org/learn/version-control-with-git?action=enroll]
-- [x] (NDG Linux Unhatched)[https://www.netacad.com/courses/os-it/ndg-linux-unhatched]
-- [] (NDG Linux Essentials)[https://www.netacad.com/courses/os-it/ndg-linux-essentials]
-- [] (Learn Shell Scripting)[https://www.learnshell.org/]
-- [] (Bash Scripting Tutorial)[https://linuxhandbook.com/tag/bash-beginner/]
+- [x] [Markdown Training](https://www.markdowntutorial.com/])
+- [x] [Coursera Linux Basics](https://www.coursera.org/projects/command-line-linux)
+- [] [Git Training GDDS](https://www.coursera.org/learn/git-distributed-development?specialization=oss-development-linux-git#about)
+- [x] [Git Training VCG](https://www.coursera.org/learn/version-control-with-git?action=enroll)
+- [x] [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
+- [] [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
+- [] [Learn Shell Scripting](https://www.learnshell.org/)
+- [] [Bash Scripting Tutorial](https://linuxhandbook.com/tag/bash-beginner/)
 
 
 ### TO-DO
