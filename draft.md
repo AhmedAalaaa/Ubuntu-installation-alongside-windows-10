@@ -1,4 +1,4 @@
-### finished
+### Finished
 - [x] [Markdown Training](https://www.markdowntutorial.com/)
 - [x] [Coursera Linux Basics](https://www.coursera.org/projects/command-line-linux)
 - [ ] [Git Training GDDS](https://www.coursera.org/learn/git-distributed-development?specialization=oss-development-linux-git#about)
