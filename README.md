@@ -1,4 +1,4 @@
-# mabrains_internship_september_2021
+# Ubuntu installation alongside windows 10
 ## Phase 1
 * [Ubuntu installation](https://github.com/AhmedAalaaa/mabrains_internship_september_2021/blob/main/Phase1/Ubuntu%20installation.md)
 
